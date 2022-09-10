@@ -27,3 +27,19 @@ Utilisez une API pour un compte utilisateur bancaire avec React
 - Installer les packages avec `npm i`
 
 - Lancer le projet avec `npm run start`
+
+## Compte de connexion disponible
+
+# Tony Stark
+
+First Name: Tony
+Last Name: Stark
+Email: tony@stark.com
+Password: password123
+
+# Steve Rogers
+
+First Name: Steve,
+Last Name: Rogers,
+Email: steve@rogers.com,
+Password: password456
